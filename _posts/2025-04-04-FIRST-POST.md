@@ -1,17 +1,9 @@
 ---
 title: First Blog Entry
-date: 2025-04-04 07:22:0 +0000
+date: 2025-04-04 07:22:00 +0200
 categories: [Misc, Blog]
 tags: [misc]
----
-
-
----
-This is my first post
----
-
----
-toc: false
+description: This is my first post
 ---
 
 This is my first post. Nothing else is here yet.
